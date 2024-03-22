@@ -128,6 +128,7 @@ Check out the [Demo](https://nerdymomocat-templates.github.io/webtrotion-astro-n
 <img width="990" alt="Light Mode Preview" src="https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog/assets/125716950/0bc56b36-88a1-4875-9266-e186becb380d">
 
 Light mode preview
+
 <img width="971" alt="Dark Mode Preview" src="https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog/assets/125716950/52edd08a-1459-4aa5-ac22-77b8b6dea161">
 
 Dark mode preview
